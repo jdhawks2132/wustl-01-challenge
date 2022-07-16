@@ -8,7 +8,7 @@
 
 ## Learning Goals
 
-The purpose of this webpage was to practice using best practices when it comes to semantic naming conventions and implementing DRY principles when writing css. 
+The purpose of this webpage was to practice using best practices when it comes to accessibility, semantic naming conventions, and implementing DRY principles when writing css. 
 
 ## Development Team
 - [Joshua Hawks](http://www.linkedin.com/in/joshuahawks1)
