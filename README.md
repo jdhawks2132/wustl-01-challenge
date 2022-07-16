@@ -13,8 +13,6 @@ The purpose of this webpage was to practice using best practices when it comes t
 ## Development Team
 - [Joshua Hawks](http://www.linkedin.com/in/joshuahawks1)
 
-## Purpose
-
 ## Project Planning
 
 ### User Story
