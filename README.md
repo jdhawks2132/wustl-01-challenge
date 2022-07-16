@@ -17,6 +17,8 @@ The purpose of this webpage was to practice using best practices when it comes t
 
 ## Project Planning
 
+### User Story
+
 - GIVEN a webpage meets accessibility standards
   - WHEN I view the source code
     - THEN I find semantic HTML elements
